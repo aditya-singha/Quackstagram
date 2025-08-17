@@ -1,0 +1,4 @@
+Xylo:   Lorin; Mystar;Zara
+Zara: Lorin
+Mystar: Lorin; Zara
+Lorin:   Mystar; Zara; Xylo
